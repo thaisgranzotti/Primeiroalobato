@@ -2,3 +2,8 @@
 body{ 
   background: linear-gradient(to right, #e7bfec,#e096ff,#f896de,#f772cd);
 }
+
+h1{
+  font-size: 70px;
+  text-align: center;
+}
