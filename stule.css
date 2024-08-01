@@ -1,6 +1,6 @@
 *{
   margin: 0%;
-  padding: 0%;
+  padding: 0%; 
 }
 body{ 
   background: linear-gradient(to right, #e7bfec,#cc73f1,#69f0e9,#f772cd);
@@ -12,4 +12,5 @@ h1{
 }
 .cabecalho{
   background-color: #bb0d84b6;
+  padding: 5px;
 }
